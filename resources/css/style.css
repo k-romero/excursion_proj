@@ -6,10 +6,15 @@ h1 {
   color: white;
   font-size: 50px;
   font-family: Verdana;
+  font-weight: normal;
 }
 .dlnk {
   color: aquamarine;
+  font-size: 16px;
 }
 .supsec1 p {
-  color: dimgray;
+  color: gray;
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 21px;
 }
